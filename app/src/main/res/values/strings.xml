@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploChat</string>
+    <string name="no_user">no hay usuario activo</string>
+    <string name="no_messages">el mensaje es obligatorio</string>
+</resources>
